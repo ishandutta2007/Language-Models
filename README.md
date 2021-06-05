@@ -19,11 +19,11 @@
 | [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
 | [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
 | [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [TernaryBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT-MindSpore) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [HyperText](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/HyperText) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | -- | [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | -- | [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | -- | [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [TernaryBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT-MindSpore) | -- | [TernaryBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT-MindSpore) | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [HyperText](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/HyperText) | -- | [HyperText](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/HyperText) | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
 
 
 ## Work in progress:
