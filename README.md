@@ -14,11 +14,11 @@
 | [GPT3](https://github.com/openai/gpt-3)|--|[GPT3](https://github.com/openai/gpt-3)|--| D |
 | [Spacy Models](https://github.com/explosion/spacy-models)|--|[Spacy Models](https://github.com/explosion/spacy-models)| -- | B |
 | [PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)|--|[PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)| -- | B | [NEZHA-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow)|--|--| -- | B |
-| [NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)|--|--| -- | B |
-| [NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)|--|--| -- | B |
-| [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)|--|--| -- | B |
-| [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore) | -- | -- | -- | A |
-| [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT) | -- | -- | -- | A |
+| [NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)|--|[NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)| -- | B |
+| [NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)|--|[NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)| -- | B |
+| [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)|--|[TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)| -- | B |
+| [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore) | -- | [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore) | -- | A |
+| [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT) | -- | [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT) | -- | A |
 | [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | -- | [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | -- | A |
 | [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | -- | [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | -- | A |
 | [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | -- | [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | -- | A |
