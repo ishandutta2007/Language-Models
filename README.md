@@ -10,10 +10,10 @@
 
 | Samples       | Pretrained Models           | Code  | Paper  | Output Quality
 | ------------- |:---------------------------:| -----:| ------:|------:|
-| [GPT2](https://github.com/openai/gpt-2)|--|--|--| D |
-| [GPT3](https://github.com/openai/gpt-3)|--|--|--| D |
-| [Spacy Models](https://github.com/explosion/spacy-models)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B | [NEZHA-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [GPT2](https://github.com/openai/gpt-2)|--|[GPT2](https://github.com/openai/gpt-2)|--| D |
+| [GPT3](https://github.com/openai/gpt-3)|--|[GPT3](https://github.com/openai/gpt-3)|--| D |
+| [Spacy Models](https://github.com/explosion/spacy-models)|--|[Spacy Models](https://github.com/explosion/spacy-models)|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)|--|[PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B | [NEZHA-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
 | [NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
 | [NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
 | [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
