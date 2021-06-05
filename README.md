@@ -10,20 +10,20 @@
 
 | Samples       | Pretrained Models           | Code  | Paper  | Output Quality
 | ------------- |:---------------------------:| -----:| ------:|------:|
-| [GPT2](https://github.com/openai/gpt-2)(official)|--|--|--| D |
-| [GPT3](https://github.com/openai/gpt-3)(official)|--|--|--| D |
-| [Spacy Models](https://github.com/explosion/spacy-models)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B | [NEZHA-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
-| [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [TernaryBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT-MindSpore)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
-| [HyperText](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/HyperText)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [GPT2](https://github.com/openai/gpt-2)|--|--|--| D |
+| [GPT3](https://github.com/openai/gpt-3)|--|--|--| D |
+| [Spacy Models](https://github.com/explosion/spacy-models)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [PanGu-α](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PanGu-α)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B | [NEZHA-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [NEZHA-PyTorch](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-PyTorch)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [NEZHA-Gen-TensorFlow](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Gen-TensorFlow)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
+| [TinyBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT-MindSpore) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [DynaBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/DynaBERT) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [BBPE](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/BBPE) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [PMLM](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/PMLM) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [TernaryBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [TernaryBERT-MindSpore](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TernaryBERT-MindSpore) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
+| [HyperText](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/HyperText) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
 
 
 ## Work in progress:
@@ -36,7 +36,7 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 
 ## Product Demos:
 
-- [Lyrebird samples](https://lyrebird.ai/g/vWI8bJTl)(official)
+- [Lyrebird samples](https://lyrebird.ai/g/vWI8bJTl)
 
 ## Related Works:
 
